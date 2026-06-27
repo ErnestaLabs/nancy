@@ -51,7 +51,7 @@ export default function HomePage() {
             <div className="relative animate-float md:mt-0 mt-12">
               <div className="bg-slate-100 aspect-square w-full relative sm:max-w-md mx-auto shadow-2xl" style={{ borderRadius: '60% 40% 30% 70% / 60% 30% 70% 40%', overflow: 'hidden' }}>
                 <Image
-                  src="/nancy-hero.jpg"
+                  src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80"
                   alt="Nancy Monaco - Professional Virtual Assistant"
                   fill
                   className="object-cover"
