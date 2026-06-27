@@ -55,7 +55,7 @@ const HeroSection = () => {
           <div className="relative animate-float md:mt-0 mt-12" data-purpose="hero-visual">
             <div className="organic-mask bg-slate-100 aspect-square w-full relative sm:max-w-md mx-auto shadow-2xl">
               <OptimizedImage
-                src="/nancy-hero.webp"
+                src="/nancy-hero.jpg"
                 alt="Nancy Monaco"
                 width={600}
                 height={600}

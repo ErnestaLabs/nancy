@@ -96,7 +96,7 @@ export default function AboutPage() {
                   style={{ borderRadius: '60% 40% 30% 70% / 60% 30% 70% 40%' }}
                 >
                   <Image
-                    src="/nancy-hero.webp"
+                    src="/nancy-hero.jpg"
                     alt="Nancy Monaco - Professional Virtual Assistant and Founder of Guestly"
                     fill
                     className="object-cover"
