@@ -151,7 +151,7 @@ export default function CaseStudiesPage() {
                     src={study.image}
                     alt={study.client}
                     fill
-                    className="object-cover"
+                    className="object-cover object-top"
                   />
                 </div>
                 {/* Decorative Elements */}

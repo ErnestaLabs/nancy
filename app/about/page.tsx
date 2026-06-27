@@ -90,16 +90,16 @@ export default function AboutPage() {
 
             {/* Nancy's Photo */}
             <div className="relative">
-              <div className="relative aspect-[4/5] max-w-md mx-auto">
+              <div className="max-w-md mx-auto">
                 <div 
-                  className="relative bg-white shadow-2xl overflow-hidden border-4 border-white"
+                  className="relative aspect-[4/5] bg-white shadow-2xl overflow-hidden border-4 border-white"
                   style={{ borderRadius: '60% 40% 30% 70% / 60% 30% 70% 40%' }}
                 >
                   <Image
                     src="/nancy-hero.jpg"
                     alt="Nancy Monaco - Professional Virtual Assistant and Founder of Guestly"
                     fill
-                    className="object-cover"
+                    className="object-cover object-top"
                     priority
                   />
                 </div>

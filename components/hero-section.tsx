@@ -59,7 +59,7 @@ const HeroSection = () => {
                 alt="Nancy Monaco"
                 width={600}
                 height={600}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-top"
                 priority={true}
               />
             </div>

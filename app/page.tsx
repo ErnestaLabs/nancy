@@ -54,7 +54,7 @@ export default function HomePage() {
                   src="/nancy-hero.jpg"
                   alt="Nancy Monaco - Professional Virtual Assistant"
                   fill
-                  className="object-cover"
+                  className="object-cover object-top"
                   priority
                 />
               </div>
