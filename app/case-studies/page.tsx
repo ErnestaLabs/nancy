@@ -22,7 +22,7 @@ export default function CaseStudiesPage() {
       quote: 'Nancy transformed how we operate. I finally have time to focus on growing the business instead of just managing it.',
       author: 'Sarah Mitchell',
       role: 'Founder & CEO',
-      image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80'
+      image: '/nancy-hero.jpg'
     },
     {
       client: 'ScaleUp Co.',
@@ -37,7 +37,7 @@ export default function CaseStudiesPage() {
       quote: 'I doubled my business in 6 months without working more hours. Best investment I have ever made.',
       author: 'James Rodriguez',
       role: 'Founder',
-      image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80'
+      image: '/nancy-hero.jpg'
     },
     {
       client: 'Growth Labs',
@@ -52,7 +52,7 @@ export default function CaseStudiesPage() {
       quote: 'The systems Nancy put in place saved us thousands. She is not just a VA—she is a true business partner.',
       author: 'Emily Chen',
       role: 'Director',
-      image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80'
+      image: '/nancy-hero.jpg'
     }
   ]
 
