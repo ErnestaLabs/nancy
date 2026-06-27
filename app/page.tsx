@@ -38,8 +38,8 @@ export default function HomePage() {
               <div className="mt-12 flex items-center gap-4 text-sm font-medium text-slate-500">
                 <div className="flex -space-x-3">
                   {[1, 2, 3].map((i) => (
-                    <div key={i} className="w-10 h-10 rounded-full border-2 border-white bg-gradient-to-br from-slate-200 to-slate-300 overflow-hidden">
-                      <div className="w-full h-full bg-slate-300"></div>
+                    <div key={i} className="w-10 h-10 rounded-full border-2 border-white overflow-hidden relative bg-amber-100">
+                      <Image src="/nancy-hero.jpg" alt="Founder" fill className="object-cover object-top" />
                     </div>
                   ))}
                 </div>
